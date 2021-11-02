@@ -1,0 +1,9 @@
+9.1 task: Class and Object in C++
+
+a. WAP to assign and print the roll number, phone number and address of two students having names "Sam" and "John" respectively by creating two objects of the class 'Student'.
+
+
+
+b. WAP which would contain array of objects [many objects], of a class Student. Student [Name, Age, Year, section, marks], the section would be A,B,C and D. Your program would be able to return the total marks of students in the college.
+Hint [Make a Matrix or Tabular diagram to understand the problem], all the rows will differ each other by different objects of Student class [Student s1,s2,s3,s4].
+

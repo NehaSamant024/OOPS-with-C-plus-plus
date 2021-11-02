@@ -1,0 +1,4 @@
+9.5 Task: Structure in C++
+
+WAP to create a College class and Student Structure in C++ in one program. By providing such suitable examples write at least 5 differences between class and struct code your have written above. 
+Hint [Access Specifiers, Heap and Stack, large and small memory, etc.]
